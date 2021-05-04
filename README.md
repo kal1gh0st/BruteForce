@@ -25,3 +25,4 @@ BruteForce Netflix Attack
 Start On Vpn
 python3 Brute_Force.py -n Account_Netflix -l File_list
 python3 Brute_Force.py -n Account_Netflix -l File_list -X proxy-list.txt
+![immagine](https://user-images.githubusercontent.com/56889513/117018377-ba264500-acf4-11eb-9a32-78cdd936a9c7.png)
